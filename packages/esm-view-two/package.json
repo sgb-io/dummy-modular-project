@@ -1,0 +1,8 @@
+{
+  "name": "esm-view-two",
+  "private": false,
+  "modular": {
+    "type": "esm-view"
+  },
+  "version": "1.0.0"
+}

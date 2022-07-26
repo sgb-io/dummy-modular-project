@@ -1,0 +1,9 @@
+{
+  "name": "view-one",
+  "private": false,
+  "modular": {
+    "type": "view"
+  },
+  "main": "./src/index.tsx",
+  "version": "1.0.0"
+}

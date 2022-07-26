@@ -4,6 +4,9 @@
   "modular": {
     "type": "package"
   },
+  "dependencies": {
+    "package-two": "1.0.0"
+  },
   "main": "./src/index.ts",
   "version": "1.0.0"
 }
